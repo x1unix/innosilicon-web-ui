@@ -2,7 +2,7 @@
 
 Sources of web admin interface for Innosilicon ASICs.
 
-Sources were collected using source map was disabled but still present in firmware.
+Sources were collected using source map. It was disabled but still present in firmware.
 Web application is written in React.
 
 I translated comments from chinese where it was possible.
